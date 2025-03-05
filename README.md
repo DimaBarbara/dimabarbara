@@ -1,4 +1,4 @@
-![Header](https://github.com/DimaBarbara/dimabarbara/blob/main/assets/HappyGif.gif)
+<img src="https://github.com/DimaBarbara/dimabarbara/blob/main/assets/HappyGif.gif" width="100%">
 
 ## I'm a beginner developer exploring the world of coding! 💻🚀 Always learning and building cool stuff! 😃
 
